@@ -21,16 +21,22 @@ Saat ini, terdapat berbagai macam aplikasi yang dapat digunakan untuk melakukan 
 ## Milestone 1: Menu-menu Dasar (900 poin)
 
 1. Membuat citra negatif
-![Citra Negatif - Before](./images/ms1-1-1.png)
-![Citra Negatif - After](./images/ms1-1-2.png)
+<p float="left">
+  <img src="./images/ms1-1-1.png" width="25%" />
+  <img src="./images/ms1-1-2.png" width="25%" />
+</p>
 
 2. Mengubah citra berwarna menjadi citra grayscale
-![Citra Grayscale - Before](./images/ms1-2-1.png)
-![Citra Grayscale - After](./images/ms1-2-2.png)
+<p float="left">
+  <img src="./images/ms1-2-1.png" width="25%" />
+  <img src="./images/ms1-2-2.png" width="25%" />
+</p>
 
 3. Operasi komplemen pada citra
-![Operasi Komplemen - Before](./images/ms1-3-1.png)
-![Operasi Komplemen - After](./images/ms1-3-2.png)
+<p float="left">
+  <img src="./images/ms1-3-1.png" width="25%" />
+  <img src="./images/ms1-3-2.png" width="25%" />
+</p>
 
 4. Operasi geometri (rotasi, flipping, zooming)
 Fitur rotasi, flipping, dan zooming terbatas seperti pada aplikasi image processing biasanya
@@ -45,41 +51,59 @@ Fitur rotasi, flipping, dan zooming terbatas seperti pada aplikasi image process
 
 Ekspektasi fungsionalitas untuk fitur ini adalah berdasarkan icon-icon di bawah ini:
 Icon untuk melakukan rotasi:
-![Rotasi 1 - After](./images/ms1-4-rotasi-1.png)
-![Rotasi 2 - After](./images/ms1-4-rotasi-2.png)
+<p float="left">
+  <img src="./images/ms1-4-rotasi-1.png" width="2%" />
+  <img src="./images/ms1-4-rotasi-2.png" width="2%" />
+</p>
 
 Icon untuk melakukan flipping:  
-![Rotasi 1 - After](./images/ms1-4-flip1.png)
-![Rotasi 2 - After](./images/ms1-4-flip-2.png)
+<p float="left">
+  <img src="./images/ms1-4-flip1.png" width="2%" />
+  <img src="./images/ms1-4-flip-2.png" width="2%" />
+</p>
 
-Icon untuk melakukan zooming:  
-![Rotasi 1 - After](./images/ms1-4-zoom-1.png)
-![Rotasi 2 - After](./images/ms1-4-zoom-2.png)
+Icon untuk melakukan zooming: 
+<p float="left">
+  <img src="./images/ms1-4-zoom-1.png" width="2%" />
+  <img src="./images/ms1-4-zoom-2.png" width="2%" />
+</p>
 
 ## Milestone 2: Image Enhancement (1400 poin)
 
 1. Image brightening
-![Image Brightening - Before](./images/ms2-1-1.png)
-![Image Brightening - After](http://url/to/img.png)
+<p float="left">
+  <img src="./images/ms2-1-1.png" width="25%" />
+  <img src="./images/ms2-1-2.png" width="25%" />
+</p>
 
 2. Contrast stretching 
-![Contrast - Before](./images/ms2-2-1.png)
-![Contrast - After](http://url/to/img.png)
+<p float="left">
+  <img src="./images/ms2-2-1.png" width="25%" />
+  <img src="./images/ms2-2-2.png" width="25%" />
+</p>
 
 3. Tranformasi log dan transformasi pangkat
-![Transformasi Log dan Transformasi Pangkat](./images/ms2-3.png)
+<p float="left">
+  <img src="./images/ms2-3.png" width="50%" />
+</p>
 
 ## Milestone 3 (1800 poin)
 1. Image blurring dengan teknik Gaussian Filter
-![Image Blurring](./images/ms3-1-1.png)
-![Image Blurring](./images/ms3-1-2.png)
+<p float="left">
+  <img src="./images/ms3-1-1.png" width="25%" />
+  <img src="./images/ms3-1-2.png" width="25%" />
+</p>
 
 2. Penajaman citra (image sharpening) dengan Gaussian Highpass Filter
-![Image Blurring](./images/ms3-2-1.png)
-![Image Blurring](./images/ms3-2-2.png)
+<p float="left">
+  <img src="./images/ms3-2-1.png" width="25%" />
+  <img src="./images/ms3-2-2.png" width="25%" />
+</p>
 
 3. Membuat efek noisy/grainy dengan Gaussian noise
-![Noisy](./images/ms3-3.png)
+<p float="left">
+  <img src="./images/ms3-3.png" width="50%" />
+</p>
 
 ## Bonus (500 poin)
 Menambahkan fungsionalitas berikut pada website:
