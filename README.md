@@ -43,19 +43,19 @@ Saat ini, terdapat berbagai macam aplikasi yang dapat digunakan untuk melakukan 
 Fitur rotasi, flipping, dan zooming terbatas seperti pada aplikasi image processing biasanya
 <p float="left">
   <img src="./images/ms1-4-1.png" width="25%" />
-  <img src="./images/ms1-4-2.png" width="25%" />
-  <img src="./images/ms1-4-3.png" width="25%" />
+  <img src="./images/ms1-4-2.jpg" width="25%" />
+  <img src="./images/ms1-4-3.jpg" width="25%" />
 </p>
 
 <p float="left">
   <img src="./images/ms1-4-1.png" width="25%" />
-  <img src="./images/ms1-4-5.png" width="25%" />
-  <img src="./images/ms1-4-6.png" width="25%" />
+  <img src="./images/ms1-4-5.jpg" width="25%" />
+  <img src="./images/ms1-4-6.jpg" width="25%" />
 </p>
 
 <p float="left">
   <img src="./images/ms1-4-1.png" width="25%" />
-  <img src="./images/ms1-4-8.png" width="25%" />
+  <img src="./images/ms1-4-8.jpg" width="25%" />
 </p>
 
 Ekspektasi fungsionalitas untuk fitur ini adalah berdasarkan icon-icon di bawah ini:
