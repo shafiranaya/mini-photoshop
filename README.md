@@ -39,17 +39,27 @@ Saat ini, terdapat berbagai macam aplikasi yang dapat digunakan untuk melakukan 
 </p>
 
 4. Operasi geometri (rotasi, flipping, zooming)
+
 Fitur rotasi, flipping, dan zooming terbatas seperti pada aplikasi image processing biasanya
-![Rotasi - Before](./images/ms1-4-1.png)
-![Rotasi 1 - After](http://url/to/img.png)
-![Rotasi 2 - After](http://url/to/img.png)
-![Flipping - Before](http://url/to/img.png)
-![Flipping 1 - After](http://url/to/img.png)
-![Flipping 2 - After](http://url/to/img.png)
-![Zooming - Before](http://url/to/img.png)
-![Zooming - After](http://url/to/img.png)
+<p float="left">
+  <img src="./images/ms1-4-1.png" width="25%" />
+  <img src="./images/ms1-4-2.png" width="25%" />
+  <img src="./images/ms1-4-3.png" width="25%" />
+</p>
+
+<p float="left">
+  <img src="./images/ms1-4-1.png" width="25%" />
+  <img src="./images/ms1-4-5.png" width="25%" />
+  <img src="./images/ms1-4-6.png" width="25%" />
+</p>
+
+<p float="left">
+  <img src="./images/ms1-4-1.png" width="25%" />
+  <img src="./images/ms1-4-8.png" width="25%" />
+</p>
 
 Ekspektasi fungsionalitas untuk fitur ini adalah berdasarkan icon-icon di bawah ini:
+
 Icon untuk melakukan rotasi:
 <p float="left">
   <img src="./images/ms1-4-rotasi-1.png" width="2%" />
